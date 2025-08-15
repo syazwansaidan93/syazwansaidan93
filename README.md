@@ -18,7 +18,6 @@
 ---
 
 ### 📫 How to reach me
-- Email: **your.email@example.com**
 - GitHub: [syazwansaidan93](https://github.com/syazwansaidan93)
 
 ---
