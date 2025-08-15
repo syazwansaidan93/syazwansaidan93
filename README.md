@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Syazwan 👋
 
-<!--
-**syazwansaidan93/syazwansaidan93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 💻 Passionate about coding and tinkering with tech
+- 🌱 Always learning new tools & frameworks
+- 🚀 Love building small projects that solve real problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Syazwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syazwansaidan93&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syazwansaidan93&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 How to reach me
+- Email: **your.email@example.com**
+- GitHub: [syazwansaidan93](https://github.com/syazwansaidan93)
+
+---
+⭐ From [syazwansaidan93](https://github.com/syazwansaidan93)
