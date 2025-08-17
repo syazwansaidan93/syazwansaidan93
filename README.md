@@ -16,9 +16,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syazwansaidan93&layout=compact&theme=tokyonight)
 
 ---
-
-### 📫 How to reach me
-- GitHub: [syazwansaidan93](https://github.com/syazwansaidan93)
-
----
-⭐ From [syazwansaidan93](https://github.com/syazwansaidan93)
